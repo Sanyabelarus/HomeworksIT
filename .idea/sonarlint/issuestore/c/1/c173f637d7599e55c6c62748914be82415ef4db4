@@ -1,0 +1,15 @@
+
+_squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŠžÑ‰
+7squid:S2068" Remove this hard-coded password.(ŠžÑ‰
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê
+Esquid:S1481")Remove this unused "conn" local variable.(þöì¦ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ð‡Ñ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úßôƒùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ù‚Žùÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "conn".(ŠžÑ‰
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß±ÓA
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê

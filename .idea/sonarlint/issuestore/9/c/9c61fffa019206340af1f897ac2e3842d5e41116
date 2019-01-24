@@ -1,0 +1,16 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß±ÓA8»­ƒ–ƒ-
+Lsquid:S1481")Remove this unused "conn" local variable.(þöì¦ùÿÿÿÿ8é·³˜ƒ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ù‚Žùÿÿÿÿ8Å’ž–ƒ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ð‡Ñ8Å’ž–ƒ-
+Vsquid:S1854"8Remove this useless assignment to local variable "conn".(ŠžÑ‰8Å’ž–ƒ-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8º–´˜ƒ-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8õé«˜ƒ-
+>squid:S2068" Remove this hard-coded password.(ŠžÑ‰8Áì¯–ƒ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úßôƒùÿÿÿÿ8Å’ž–ƒ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¬¾›
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŠžÑ‰8Áì¯–ƒ-

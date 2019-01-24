@@ -1,0 +1,27 @@
+
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Ö½œª„-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8Ö½œª„-
+@squid:S2386"Make this member "protected".(¬ö„Øÿÿÿÿÿ8€üõª„-
+Hsquid:S1444	"*Make this "public static flag" field final(É’ã8Ö½œª„-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Ö½œª„-
+Hsquid:S001083")Either remove or fill this block of code.(ä ¹€8Ö½œª„-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Ö½œª„-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(‘¹˜øüÿÿÿÿ8Ö½œª„-
+“"squid:ClassVariableVisibilityCheck"YMake cashRegisters a static final constant or non-public and provide accessors if needed.(¬ö„Øÿÿÿÿÿ8Ö½œª„-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íáÑ¬şÿÿÿÿ
+1squid:S2438""cr" is a "Thread".(¹²à¼8€üõª„-
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ö½œª„-
+>squid:S2438"""Argument 1" is a "Thread".(öÒš£şÿÿÿÿ8€üõª„-
+dsquid:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ö½œª„-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Ö½œª„-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8Ö½œª„-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¿Æêùÿÿÿÿ8Ö½œª„-
+Vsquid:S1444"3Make this "public static cashRegisters" field final(¬ö„Øÿÿÿÿÿ8Ö½œª„-
+…"squid:ClassVariableVisibilityCheck	"PMake flag a static final constant or non-public and provide accessors if needed.(É’ã8Ö½œª„-

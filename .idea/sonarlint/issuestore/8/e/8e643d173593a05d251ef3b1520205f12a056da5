@@ -1,0 +1,20 @@
+
+>squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+Osquid:S1197
+"8Move the array designator from the variable to the type.(›ÅŒÞ
+esquid:S2095	"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ˆç®®
+dsquid:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(ÞÅµÝ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ž¨ØÎûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œñ­šøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì’¶â
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(±üš©
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ž¨ØÎûÿÿÿÿ
+Qsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S2140")Use "java.util.Random.nextInt()" instead.(Ù¸ç‚
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Î­‹ùÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œñ­šøÿÿÿÿ

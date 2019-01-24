@@ -1,0 +1,16 @@
+
+Œsquid:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•²úóûÿÿÿÿ
+^squid:S2095:"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙµÙ
+csquid:S2095("GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙŒ®ßşÿÿÿÿ
+7squid:S2068" Remove this hard-coded password.(ş©éÊ
+^squid:S2095g"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙµÙ
+nsquid:S2077R"RUse a variable binding mechanism to construct this query instead of concatenation.(ëğ²Ùÿÿÿÿÿ
+isquid:S2077)"RUse a variable binding mechanism to construct this query instead of concatenation.(ìÊÿº
+csquid:S2095Q"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙŒ®ßşÿÿÿÿ
+dsquid:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯„ä…ùÿÿÿÿ
+dsquid:S2095‚"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯„ä…ùÿÿÿÿ
+Œsquid:S1319H"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰©ùìùÿÿÿÿ
+Msquid:S2696"6Make the enclosing method "static" or remove this set.(ş©éÊ
+Œsquid:S1319d"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(”Œ«íüÿÿÿÿ
+dsquid:S2095±"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+‡squid:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦â¤

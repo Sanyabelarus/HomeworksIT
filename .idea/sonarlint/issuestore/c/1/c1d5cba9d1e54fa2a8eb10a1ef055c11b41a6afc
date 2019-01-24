@@ -1,0 +1,28 @@
+
+>squid:S2068A" Remove this hard-coded password.(â‹®Š8“ÅüÅ‡-
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(øÍÑñ8“ÅüÅ‡-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¿«šıûÿÿÿÿ8“ÅüÅ‡-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸¸Ó®ıÿÿÿÿ8“ÅüÅ‡-
+U
+squid:S1065"9Replace this use of System.out or System.err by a logger.(öõùM8“ÅüÅ‡-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(šøÂô8“ÅüÅ‡-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(è«ÿ€úÿÿÿÿ8“ÅüÅ‡-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ8“ÅüÅ‡-
+ssquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ì§ñ8“ÅüÅ‡-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(›ø½Ãûÿÿÿÿ8“ÅüÅ‡-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºÚıûÿÿÿÿ8“ÅüÅ‡-
+jsquid:S2095B"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8“ÅüÅ‡-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ñï×™ùÿÿÿÿ8“ÅüÅ‡-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åÑç8“ÅüÅ‡-
+dsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(çİ¥_8“ÅüÅ‡-
+Fsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“ÅüÅ‡-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÍÉ‹ß8“ÅüÅ‡-
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÿ¿êğ8“ÅüÅ‡-

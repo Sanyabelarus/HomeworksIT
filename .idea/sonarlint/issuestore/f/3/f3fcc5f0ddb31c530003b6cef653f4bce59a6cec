@@ -1,0 +1,6 @@
+
+‹squid:S1319"mThe type of the "GOODS" object should be an interface such as "Map" rather than the implementation "HashMap".(ñúú‚8Ïê‘ƒ„-
+;squid:S2386"Make this member "protected".(ñúú‚8Ïê‘ƒ„-
+2squid:S1700"Rename field "GOODS"(ñúú‚8Ïê‘ƒ„-
+Wsquid:S1118":Add a private constructor to hide the implicit public one.(ÕÔíf8Ë¨”«ÿ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íáÑ¬şÿÿÿÿ

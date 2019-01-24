@@ -1,0 +1,16 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿ€Äà„-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(õŞğ8ÿ€Äà„-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ÙÍÆ8ÿ€Äà„-
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿ€Äà„-
+gsquid:S2147"DCombine this catch with the one at line 29, which has the same body.(¯ş¼ ùÿÿÿÿ8ÿ€Äà„-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿ€Äà„-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¥Ú˜øÿÿÿÿ8ÿ€Äà„-
+_
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(¼Ú¨ë8ÿ€Äà„-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ê±¸øÿÿÿÿ8ÿ€Äà„-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ªÆâÓ8ÿ€Äà„-
+}squid:S4435"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(È©ÿùÿÿÿÿ8ÿ€Äà„-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨ì8ÿËÃà„-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿ€Äà„-

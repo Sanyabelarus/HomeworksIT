@@ -1,0 +1,13 @@
+
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ‚á8¢¾µà„-
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùƒ‚á8¢¾µà„-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ùƒ‚á8¢¾µà„-
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ïŒÕ–ÿÿÿÿÿ8¢¾µà„-
+asquid:S2147A"DCombine this catch with the one at line 63, which has the same body.(Ş‹€[8¢¾µà„-
+Rsquid:S2209&"5Change this instance-reference to a static reference.(¯¾ÍK8¢¾µà„-
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢¾µà„-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç©’%8¢¾µà„-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„™·â
+Xsquid:S22091"5Change this instance-reference to a static reference.(ìñËüÿÿÿÿ8¢¾µà„-
+Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢¾µà„-
